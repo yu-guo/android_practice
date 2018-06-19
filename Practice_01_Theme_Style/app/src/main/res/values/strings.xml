@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practice_01_Theme_Style</string>
+    <string name="ordinary_tv">普通的TextView</string>
+    <string name="show_dialog">show Dialog</string>
+    <string name="ordinary_dialog">普通对话框</string>
+    <string name="ordinary_v7_dialog">v7 对话框</string>
+</resources>
